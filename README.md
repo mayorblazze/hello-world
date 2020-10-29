@@ -1,2 +1,5 @@
 # hello-world
-Not decided
+
+Hi guys
+
+   Am mayorblazze, love coding 
